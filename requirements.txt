@@ -1,0 +1,14 @@
+python-binance==1.0.15
+pandas_ta==0.3.14b
+cryptocmd==0.6.0
+numpy==1.21.3
+DateTime==4.3
+pandas==1.3.4
+plotly==5.3.1
+matplotlib==3.4.3
+kneed==0.7.0
+mpl-finance==0.10.1
+pytz==2021.3
+scikit-learn==1.0.2
+scipy==1.7.3
+requests==2.27.1
