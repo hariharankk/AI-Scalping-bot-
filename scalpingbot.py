@@ -110,8 +110,8 @@ def telegram_bot_sendtext(bot_message):
     return response.json()
       
 def main():  
-  access_key="8maDcVyKIwBtc0i32IvLD0jwca8nZ6VfrFkFprWThGkntHYH5gMqY2tuu9yOpkO1"
-  secret_key ="dqQXXSZGaBL9jCJw3ttz2aKD6TW5IyeGirFoDo8NmkkhYMmycn492I9SASaG9meR"
+  access_key="xxxxxxxxxxxxxxxxxxxx"
+  secret_key ="xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   client = Client(access_key, secret_key)
   return client
 
